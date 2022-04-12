@@ -10,4 +10,4 @@ class PalindromeExample{
    n=n/10;    
   }    
   if(temp==sum)    
-   
+  . 
